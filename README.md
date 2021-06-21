@@ -1,3 +1,5 @@
+Guided Project - 06/21/2021 - Initial comment
+
 # Side Effects
 
 ## About the setup
